@@ -20,4 +20,4 @@ Todo layout desenvolvido para este conteúdo foi desenvolvido no Figma, no segui
 https://www.figma.com/file/fvjQQNtqaUdpuNixvCZVav/DIO-CLONE?node-id=0%3A1
  
 
-- [Certificado](https://hermes.digitalinnovation.one/certificates/70F06A6F.pdf)
+- [Certificado](https://hermes.digitalinnovation.one/certificates/6F25C7F3.pdf)
